@@ -1,0 +1,10 @@
+{
+  "name": "_04.Bigger_Than_Neighbors",
+  "version": "0.0.0",
+  "description": "04.Bigger Than Neighbors",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

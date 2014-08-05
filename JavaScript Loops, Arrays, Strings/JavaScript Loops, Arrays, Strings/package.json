@@ -1,0 +1,10 @@
+{
+  "name": "JavaScript_Loops__Arrays__Strings",
+  "version": "0.0.0",
+  "description": "JavaScript Loops, Arrays, Strings",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

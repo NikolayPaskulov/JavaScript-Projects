@@ -1,0 +1,10 @@
+{
+  "name": "_08.Sort_Array",
+  "version": "0.0.0",
+  "description": "08.Sort Array",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

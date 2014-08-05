@@ -1,0 +1,10 @@
+{
+  "name": "_07The_Lifetime_Supply_Calculator",
+  "version": "0.0.0",
+  "description": "07The-Lifetime-Supply-Calculator",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

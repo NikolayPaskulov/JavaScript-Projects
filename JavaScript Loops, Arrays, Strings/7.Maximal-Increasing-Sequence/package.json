@@ -1,0 +1,10 @@
+{
+  "name": "_7.Maximal_Increasing_Sequence",
+  "version": "0.0.0",
+  "description": "7.Maximal-Increasing-Sequence",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_02.Find_Min_and_Max_Number",
+  "version": "0.0.0",
+  "description": "02.Find-Min-and-Max-Number",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

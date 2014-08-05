@@ -1,0 +1,10 @@
+{
+  "name": "_03Division_by_3",
+  "version": "0.0.0",
+  "description": "03Division-by-3",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

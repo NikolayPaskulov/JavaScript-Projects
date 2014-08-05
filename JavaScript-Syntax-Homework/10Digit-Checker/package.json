@@ -1,0 +1,10 @@
+{
+  "name": "_10Digit_Checker",
+  "version": "0.0.0",
+  "description": "10Digit-Checker",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

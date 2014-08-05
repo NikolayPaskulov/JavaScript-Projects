@@ -1,0 +1,10 @@
+{
+  "name": "_11Digit_as_Word",
+  "version": "0.0.0",
+  "description": "11Digit-as-Word",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

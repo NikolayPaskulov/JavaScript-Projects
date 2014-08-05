@@ -1,0 +1,10 @@
+{
+  "name": "_03Check_if_Number_is_Even",
+  "version": "0.0.0",
+  "description": "03Check-if-Number-is-Even",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

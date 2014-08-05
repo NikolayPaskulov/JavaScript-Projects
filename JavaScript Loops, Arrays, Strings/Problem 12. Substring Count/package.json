@@ -1,0 +1,10 @@
+{
+  "name": "Problem_12._Substring_Count",
+  "version": "0.0.0",
+  "description": "Problem 12. Substring Count",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_16.Cards_Frequencies",
+  "version": "0.0.0",
+  "description": "16.Cards-Frequencies",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_09.Most_Frequent_Number",
+  "version": "0.0.0",
+  "description": "09.Most-Frequent-Number",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

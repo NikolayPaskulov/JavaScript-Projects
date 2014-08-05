@@ -1,0 +1,10 @@
+{
+  "name": "_04Check_if_Number_is_Prime",
+  "version": "0.0.0",
+  "description": "04Check-if-Number-is-Prime",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}
